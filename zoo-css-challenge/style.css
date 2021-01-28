@@ -60,6 +60,10 @@ h3 {
   color: #BEEE62;
 }
 
+.giraffe p:first-of-type {
+  font-size: larger;
+}
+
 button {
   display: inline-block;
   border-radius: 3px;
