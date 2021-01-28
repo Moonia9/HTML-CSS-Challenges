@@ -157,6 +157,10 @@ footer {
   margin-bottom: 1em;
 }
 
+.card div:last-of-type {
+  display: inline-block;
+}
+
 .card a {
   text-decoration: underline;
   font-weight: bold;
@@ -195,6 +199,12 @@ footer {
 .membership {
   text-align: center;
   background-color: #fffffc;
+  
+}
+
+.membership p {
+  max-width: 700px;
+  margin-left: 15em;
 }
 
 .membership h2 {
