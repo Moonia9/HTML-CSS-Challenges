@@ -194,6 +194,11 @@ footer {
   margin-bottom: 1em;
 }
 
+.education-container button {
+  font-size: larger;
+}
+
+
 /*Membership*/
 
 .membership {
@@ -213,6 +218,10 @@ footer {
 
 .membership strong {
   color: #ff7f11;
+}
+
+.membership button {
+  font-size: larger;
 }
 
 /*Programs*/
