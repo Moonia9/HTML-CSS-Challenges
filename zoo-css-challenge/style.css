@@ -113,7 +113,13 @@ footer {
 }
 
 .image-container img:first-of-type {
-  vertical-align: bottom;
+  vertical-align: top;
+  border: 5px solid mediumseagreen;
+}
+
+.image-container img:last-of-type {
+  vertical-align: top;
+  border: 5px solid forestgreen;
 }
 
 .tigers {
