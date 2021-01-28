@@ -51,6 +51,7 @@ h2 {
   font-size: 175%;
   color:#F14E68;
   text-align: center;
+  background-color: lightgray;
 }
 
 h3 {
@@ -146,6 +147,7 @@ footer {
 
 .giraffe h2 {
   color: #ef6f6c;
+  background-color: lightgray;
 }
 
 .card {
@@ -258,3 +260,20 @@ footer {
 .programs .third-button {
   color:mediumvioletred
 }
+
+/*Lions*/
+ .lions {
+   background-color: rgb(197, 218, 245);
+ }
+
+ .lions p {
+   color:palevioletred;
+ }
+
+ .lions li:nth-child(3n) {
+   color: palevioletred;
+ }
+
+ .lions h2 {
+   background-color: lightgray;
+ }
