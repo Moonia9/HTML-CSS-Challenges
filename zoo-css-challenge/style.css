@@ -198,6 +198,9 @@ footer {
   font-size: larger;
 }
 
+.hovering:hover {
+  color:lightcoral;
+}
 
 /*Membership*/
 
@@ -222,6 +225,11 @@ footer {
 
 .membership button {
   font-size: larger;
+  
+}
+
+.make-it-hover:hover {
+  color:lightcoral;
 }
 
 /*Programs*/
