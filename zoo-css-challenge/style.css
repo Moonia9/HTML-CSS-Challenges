@@ -47,15 +47,12 @@ h1 {
   font-size: 250%;
 }
 
-h2,
-h3 {
+h2 {
   font-size: 175%;
   color:#F14E68;
 }
 
-h3 {
-  font-size: 150%;
-}
+
 
 button {
   display: inline-block;
