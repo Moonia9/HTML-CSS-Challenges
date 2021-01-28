@@ -29,14 +29,11 @@ section {
   background-color: #f8f0fb;
 }
 
-
+ /*Purple*/
 
 h1,
-h2,
-h3,
 h4,
 h5 {
-  /*Purple*/
   color: #6320ee;
   margin-bottom: 1em;
 }
@@ -50,8 +47,10 @@ h1 {
   font-size: 250%;
 }
 
-h2 {
+h2,
+h3 {
   font-size: 175%;
+  color:#F14E68;
 }
 
 h3 {
