@@ -241,3 +241,15 @@ footer {
 .programs .card {
   display: inline-block;
 }
+
+.programs .first-button {
+  color :lightpink;
+}
+
+.programs .second-button {
+  color:lightseagreen;
+}
+
+.programs .third-button {
+  color:mediumvioletred;
+}
