@@ -56,6 +56,10 @@ h3 {
   color: #F4743B;
 }
 
+.giraffe p {
+  color: #BEEE62;
+}
+
 button {
   display: inline-block;
   border-radius: 3px;
