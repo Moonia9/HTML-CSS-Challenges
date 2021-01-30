@@ -100,7 +100,6 @@ footer {
   position: fixed;
   top: 20px;
   right: 20px;
-
   display: flex;
   justify-content: center;
   align-content: center;
@@ -120,9 +119,23 @@ footer {
   font-size: 125%;
 }
 
+#banner {
+  height: 120px;
+  width: 100%;
+  background-color: cornflowerblue;
+  position: fixed;
+  z-index: 2;
+  opacity: 0.5;
+  margin-bottom: 150px;
+}
+
+
 .image-container img {
   vertical-align: top;
   border: 5px solid #747c92;
+  object-fit: cover;
+  width: 300px;
+  height: 300px;
 }
 
 .image-container img:first-of-type {
